@@ -14,7 +14,6 @@ Preparation
 
 - [Requirement](#requirement)
   - [Access to IBM Hardware](#access-to-ibm-hardware)
-  - [Working on qBraid Lab](#working-on-qbraid-lab)
   - [Working on IBM Quantum Lab](#working-on-ibm-quantum-lab)
   - [Working on Locally](#working-on-locally)
 - [Submitting the tasks](#submitting-the-tasks)
@@ -50,7 +49,7 @@ This track is your conceptual entry point into the quantum world, starting with 
 
 ### Reversible computing
 
-In classical computers, most logic gates are `irreversible`. For example, and AND gate outputs `0` for three different inputs (`00`, `01`, `10`). If you only have the output, you can't know the input - information has been lost. According to Landauer's Principles, this act of erasing information fundamentally requires energy dissipation, making computation inherently inefficient. A **reversible computation**, in contrast, is one where you can always reverse the process to find the original input from the output, meaning no information is lost. [2]
+In classical computers, most logic gates are `irreversible`. For example, and AND gate outputs `0` for three different inputs (`00`, `01`, `10`). If you only have the output, you can't know the input - information has been lost. According to Landauer's Principles, this act of erasing information fundamentally s energy dissipation, making computation inherently inefficient. A **reversible computation**, in contrast, is one where you can always reverse the process to find the original input from the output, meaning no information is lost. [2]
 
 The idea of reversible computing was advanced significantly by Charles Bennett, who showed that any classical computation could be performed in a logically reversible manner. Building on this, Richard Feynman noted that the laws of quantum mechanics are themselves inherently reversible and thus proposed that a computer built on quantum principles could be the ideal physical implementation of a reversible computer.[3] [4]
 
@@ -124,63 +123,41 @@ You should use methods that go beyond standard ground state calculations, such a
 
 [3] Robledo-Moreno, J., M. Motta, H. Haas, A. Javadi-Abhari, P. Jurcevic, W. Kirby, S. Martiel, et al. 2024. “Chemistry beyond the Scale of Exact Diagonalization on a Quantum-Centric Supercomputer.” Science Advances 10 (25). https://doi.org/10.1126/sciadv.adu9991.
 
-
-
-## HERE
-
-> [!NOTE]
-The idea is that it serves a practical use case and can be accessed by anyone without special tooling that is not already included in a typical computer installation (or minimal installation)
-
-## Final Teams
-Thank you for choosing IBM Quantum Challenge!
-
-- hyperposition: [Repository](https://github.com/GeorgeHolm/ALQORITHM)
-- Bulldogs: [Repository](https://github.com/shannenespinosa/iquhack24)
-- Stockfish: [Repository](https://github.com/aace217/iQuHACK2024)
-- team-7: [Repository](https://github.com/grid-rider/team-7-iQuHACK)
-- mass2024: [Repository](https://github.com/quargsgreene/ibmgamechallenge)
-- [B]Alde's Gate: [Repository](https://github.com/coderalde/iQuHack-2024-B-Alde-s-Gate/tree/main)
-
 ## 🏆 Winners 🏆
 
-Congratulations to all winners!
+Congratulations to all winners and thank you everyone who competed!
 
 <h2> 🥇 1st Place </h2>
 
-**Team Bulldogs**: "Organ Donation QuAllocation
-Quantum Approximate Optimization Algorithm for Organ Donor and Patient Matching" 
-- https://github.com/shannenespinosa/iquhack24
+**Team BLANK**: "Title"
+- Repo Link
 - Members:
-  - [Shannen Espinosa](https://www.linkedin.com/in/shannenespinosa/)
-  - [Siona Tagare](https://www.linkedin.com/in/siona-tagare-2aa71a2a6/)
-  - [Alma Alex](http://www.linkedin.com/in/alma-alex-b41596236)
-  - [Annli Zhu](https://www.linkedin.com/in/annli-zhu-214016184/)
+  - [Name](https://github.com/NAME)
 
 <h2>🥈 2nd Place </h2>
 
-**Team team-7**: "MITqute" 
-- https://github.com/grid-rider/team-7-iQuHACK
+**Team BLANK**: "Title"
+- Repo Link
 - Members:
-  - [Liam Kronman](https://www.linkedin.com/in/liam-kronman/)
-  - [Maggie Bao](@maggie-bao202)
-  - [Nicole Shen](https://www.linkedin.com/in/nicole-shen-38b81b293/)
-  - [Armin Ulrich](https://www.linkedin.com/in/arminulrich/)
-  - [Sierra Romo](https://www.linkedin.com/in/sierra-romo-568002253/)
+  - [Name](https://github.com/NAME)
 
 
 <h2>🥉 3rd Place </h2>
 
-**Team hyperposition**: "ALQORITHM: A novel, quantum signal processing-based algorithm builder"
-- https://github.com/GeorgeHolm/ALQORITHM
+**Team BLANK**: "Title"
+- Repo Link
 - Members:
-  - [Brennan Lagasse](https://github.com/BrennanLagasse)
-  - [Frank Wong](https://github.com/frank-cywong)
-  - [Pranet Sharma](https://github.com/pranetksharma)
-  - [George Holm](https://github.com/GeorgeHolm)
-  - [Diya Naik](https://github.com/diyamagnetism)
+  - [Name](https://github.com/NAME)
+
 ---
 
-## **Requirement**
+
+
+
+## HERE
+
+
+## **How to Start Qomputing**
 
 ### Access to IBM Hardware
 In order to gain access to IBM Quantum hardware for working on qBraid Lab or Locally:
@@ -189,17 +166,33 @@ In order to gain access to IBM Quantum hardware for working on qBraid Lab or Loc
 2. After login, please copy your "API Token" by clicking double square butten at the top right and save it for the aBraid Quantum Lab
 <img src="./img/apitoken.png" width=100%>
 
-### Working on qBraid Lab
-[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com/?gitHubUrl=https://github.com/iQuHACK/2024_IBM.git)
+## How to start hack
+
+[Start Here: How to Install Qiskit and Make Yourself ready for this Hackathon](put-your-drive-document-link-here)
+
+[Quantum Learning Resources](put-your-drive-document-link-here)
 
 
-1. If you're working on qBraid, first fork this repository and click the above `Launch on qBraid` button. It will take you to your qBraid Lab with the repository cloned.
-   
-2. Use the default environment to use the latest Qiskit.
+## Additional Info
 
-<img width="287" alt="image" src="./img/default_env.png">
+import qiskit, qiskit_ibm_runtime
 
-3. [This tutorial](https://github.com/qBraid/qbraid-lab-demo/blob/main/qbraid_sdk/ibm_quantum_jobs_with_runtime.ipynb) will give you a guideline on how to use your own IBM Quantum Credential. You can find it through qBraid Lab under the "qbraid_sdk" folder as well. 
+print("Qiskit version:", qiskit.version.get_version_info())
+print("Qiskit Runtime version:", qiskit_ibm_runtime.__version__)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Working on IBM Quantum Lab
 
