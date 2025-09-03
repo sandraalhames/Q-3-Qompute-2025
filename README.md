@@ -151,16 +151,19 @@ Congratulations to all winners and thank you everyone who competed!
 
 ---
 
-
-
-
-## HERE
-
-
 ## **How to Start Qomputing**
 
 ### Access to IBM Hardware
-In order to gain access to IBM Quantum hardware for working on qBraid Lab or Locally:
+Whether you will work locally or in a cloud environment, the first step for all users is to install Qiskit. Please visit [IBM Qiskit install guide](https://quantum.cloud.ibm.com/docs/en/guides/install-qiskit) this page to learn about how to install Qiskit and set up the Python environment.
+
+Also, you can visit this YouTube videos: [How to Install Qiskit | Coding with Qiskit 1.x | Programming on Quantum Computers](https://youtu.be/dZWz4Gs_BuI?si=um36GxYPqrcAaZC_)
+
+
+
+
+
+
+
 
 1. Login to https://quantum.ibm.com/. If you don't have your IBMid, please signin first. 
 2. After login, please copy your "API Token" by clicking double square butten at the top right and save it for the aBraid Quantum Lab
