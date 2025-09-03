@@ -159,9 +159,16 @@ Whether you will work locally or in a cloud environment, the first step for all 
 Also, you can visit this YouTube videos: [How to Install Qiskit | Coding with Qiskit 1.x | Programming on Quantum Computers](https://youtu.be/dZWz4Gs_BuI?si=um36GxYPqrcAaZC_)
 
 
+### Using an Online Environment
+To ensure an easy and consistent experience for all participants—especially those on Windows—we can try [qBraid](https://www.qbraid.com/), one of the supported online environments, to provide a pre-configured, ready-to-use environment to use Qiskit.. You can follow these steps to launch the lab notebooks on qBraid.
+
+You can find [detailed instructions](https://docs.qbraid.com/lab/user-guide/getting-started) on qBraid.
+
+📎 Learn more and get started here: [IBM Quantum Online Lab Environments Guide](https://quantum.cloud.ibm.com/docs/en/guides/online-lab-environments)
 
 
 
+## stopped HERE on 9/2, 9:42 pm
 
 
 
