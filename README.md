@@ -5,28 +5,10 @@ All Challenges are provided by IBM Quantum.
 **Please note that in-person attendees must check in on 9/14**
 
 - [Overview](#overview)
+- [How to Start Qomputing](#HowToStartQomputing)
 - [Challenges and Submission Details](#challengesAndSubmissionDetails)
-- [Final Teams](#final-teams)
 - [Winners](#-winners-)
 ------
-
-Preparation
-
-- [Requirement](#requirement)
-  - [Access to IBM Hardware](#access-to-ibm-hardware)
-  - [Working on IBM Quantum Lab](#working-on-ibm-quantum-lab)
-  - [Working on Locally](#working-on-locally)
-- [Submitting the tasks](#submitting-the-tasks)
-- [Judging Criteria](#judging-criteria)
-- [Winners and Awards](#winners-and-awards)
-- [Resources](#resources)
-  - [Learning Materials](#learning-materials)
-    - [Quantum Computing and Algorithms](#quantum-computing-and-algorithms)
-    - [Workflow Example Tutorials](#workflow-example-tutorials)
-  - [API Reference](#api-reference)
-  - [Useful Resources](#useful-resources)
-- [Tips](#tips)
-- [Feedbacks and Discussions](#feedbacks-and-discussions)
 
 ## **Overview**
 
