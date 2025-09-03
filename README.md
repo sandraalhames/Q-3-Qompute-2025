@@ -39,6 +39,21 @@ This Q3 USC hackathon, supported by IBM, is structured as a direct inquiry into 
 
 Your goal is to engage with one of these core challenges. Beyond simply implementing an algorithm, you are challenged to consider the deeper questions of real-world application and the broader social context of your work.
 
+## **How to Start Qomputing**
+
+### Access to IBM Hardware
+Whether you will work locally or in a cloud environment, the first step for all users is to install Qiskit. Please visit [IBM Qiskit install guide](https://quantum.cloud.ibm.com/docs/en/guides/install-qiskit) this page to learn about how to install Qiskit and set up the Python environment.
+
+Also, you can visit this YouTube videos: [How to Install Qiskit | Coding with Qiskit 1.x | Programming on Quantum Computers](https://youtu.be/dZWz4Gs_BuI?si=um36GxYPqrcAaZC_)
+
+
+### Using an Online Environment
+To ensure an easy and consistent experience for all participants—especially those on Windows—we can try [qBraid](https://www.qbraid.com/), one of the supported online environments, to provide a pre-configured, ready-to-use environment to use Qiskit.. You can follow these steps to launch the lab notebooks on qBraid.
+
+You can find [detailed instructions](https://docs.qbraid.com/lab/user-guide/getting-started) on qBraid.
+
+📎 Learn more and get started here: [IBM Quantum Online Lab Environments Guide](https://quantum.cloud.ibm.com/docs/en/guides/online-lab-environments)
+
 ## **Challenges and Submission Details**
 
 The final submission for this hackathon is a 5-10 minute presentation in any chosen format and your GitHub Repository. 
@@ -151,24 +166,9 @@ Congratulations to all winners and thank you everyone who competed!
 
 ---
 
-## **How to Start Qomputing**
-
-### Access to IBM Hardware
-Whether you will work locally or in a cloud environment, the first step for all users is to install Qiskit. Please visit [IBM Qiskit install guide](https://quantum.cloud.ibm.com/docs/en/guides/install-qiskit) this page to learn about how to install Qiskit and set up the Python environment.
-
-Also, you can visit this YouTube videos: [How to Install Qiskit | Coding with Qiskit 1.x | Programming on Quantum Computers](https://youtu.be/dZWz4Gs_BuI?si=um36GxYPqrcAaZC_)
 
 
-### Using an Online Environment
-To ensure an easy and consistent experience for all participants—especially those on Windows—we can try [qBraid](https://www.qbraid.com/), one of the supported online environments, to provide a pre-configured, ready-to-use environment to use Qiskit.. You can follow these steps to launch the lab notebooks on qBraid.
-
-You can find [detailed instructions](https://docs.qbraid.com/lab/user-guide/getting-started) on qBraid.
-
-📎 Learn more and get started here: [IBM Quantum Online Lab Environments Guide](https://quantum.cloud.ibm.com/docs/en/guides/online-lab-environments)
-
-
-
-## stopped HERE on 9/2, 9:42 pm
+## stopped HERE on 9/2, 9:42 pm ----------------
 
 
 
