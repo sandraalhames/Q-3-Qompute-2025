@@ -2,7 +2,7 @@
 All Challenges are provided by IBM Quantum. 
 
 > [!IMPORTANT]
-**Please note that in-person attendees must check in on 9/14**
+**Please note that in-person attendees must check in on 9/12 and 9/14, contact qee@usc.edu for any concerns**
 
 - [Overview](#overview)
 - [How to Start Qomputing](#HowToStartQomputing)
