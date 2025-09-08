@@ -5,9 +5,9 @@ All Challenges are provided by IBM Quantum.
 **Please note that in-person attendees must check in on 9/12 and 9/14, contact qee@usc.edu for any concerns**
 
 - [Overview](#overview)
-- [How to Start Qomputing](#HowToStartQomputing)
-- [Challenges and Submission Details](#challengesAndSubmissionDetails)
-- [Winners](#-winners-)
+- [How to Start Qomputing](#how-to-start-qomputing)
+- [Challenges and Submission Details](#challenges-and-submission-details)
+- [Winners](#winners)
 ------
 
 ## **Overview**
@@ -23,14 +23,16 @@ Your goal is to engage with one of these core challenges. Beyond simply implemen
 
 ## **How to Start Qomputing**
 
+Please visit [IBM Setup Guide](https://docs.google.com/document/d/12Be_4zIUcz8xkC1jnlbSwCfLch4eiJhVqtn0Syusv70/edit?usp=sharing) for an overview of installing Qiskit, accessing the online environment, and using the backend computing tools.
+
 ### Access to IBM Hardware
-Whether you will work locally or in a cloud environment, the first step for all users is to install Qiskit. Please visit [IBM Qiskit install guide](https://quantum.cloud.ibm.com/docs/en/guides/install-qiskit) this page to learn about how to install Qiskit and set up the Python environment.
+Whether you will work locally or in a cloud environment, the first step for all users is to install Qiskit. Please visit [IBM Qiskit install guide](https://quantum.cloud.ibm.com/docs/en/guides/install-qiskit) to learn about how to install Qiskit and set up the Python environment.
 
 Also, you can visit this YouTube videos: [How to Install Qiskit | Coding with Qiskit 1.x | Programming on Quantum Computers](https://youtu.be/dZWz4Gs_BuI?si=um36GxYPqrcAaZC_)
 
 
 ### Using an Online Environment
-To ensure an easy and consistent experience for all participants—especially those on Windows—we can try [qBraid](https://www.qbraid.com/), one of the supported online environments, to provide a pre-configured, ready-to-use environment to use Qiskit.. You can follow these steps to launch the lab notebooks on qBraid.
+To ensure an easy and consistent experience for all participants—especially those on Windows — we can try [qBraid](https://www.qbraid.com/), one of the supported online environments, to provide a pre-configured, ready-to-use environment to use Qiskit. You can follow these steps to launch the lab notebooks on qBraid.
 
 You can find [detailed instructions](https://docs.qbraid.com/lab/user-guide/getting-started) on qBraid.
 
@@ -38,7 +40,7 @@ You can find [detailed instructions](https://docs.qbraid.com/lab/user-guide/gett
 
 ## **Challenges and Submission Details**
 
-The final submission for this hackathon is a 5-10 minute presentation in any chosen format and your GitHub Repository. 
+The final submission for this hackathon is a 5-10 minute presentation in any chosen format and your GitHub Repository. Please fill out [this google form](https://forms.gle/PBY8KsTmg4SdrbaeA) to upload all necessary information and documents.
 
 ## Track 1: Feynman's dream - Reversible computing
 
