@@ -6,12 +6,16 @@ All Challenges are provided by IBM Quantum.
 
 - [Overview](#overview)
 - [How to Start Qomputing](#how-to-start-qomputing)
+- [Final Submission Due Date](#final-submission)
+- [Juding Criteria](#judging-criteria)
 - [Challenges and Submission Details](#challenges-and-submission-details)
 - [Winners](#winners)
 - [Final Submission](#finalsubmission)
 ------
 
 ## **Overview**
+
+There are multiple challenge tracks, but it is up to you and your teammates to work on one or multiples to present a project in alignment with the judging criteria.
 
 The convergence of quantum science and global sustainability efforts is unlocking a new horizon of possibility. Quantum computing provides a transformative toolkit to achieve the ambitious vision of the UN's Sustainable Development Goals, offering powerful new approaches to problems in simulation, optimization, and foundational computation itself. [1]
 
@@ -39,9 +43,29 @@ You can find [detailed instructions](https://docs.qbraid.com/lab/user-guide/gett
 
 📎 Learn more and get started here: [IBM Quantum Online Lab Environments Guide](https://quantum.cloud.ibm.com/docs/en/guides/online-lab-environments)
 
+## Final Submission Due Date
+
+> [!IMPORTANT]
+Submission Due: 11:59AM PST, 13th Sep (Saturday)</br>
+Link will expires after due.
+
+## Judging Criteria
+
+1. **Technical Content - 30%** : 
+2. **Societal Impacts - 20%** : How does the challenge support [Quantum for Good](https://aiforgood.itu.int/quantum-for-good/) by the UN? (Prompt motivation)
+  - Did you consider the potential harm or danger of this technology?
+  - Does your project have a clearn and positive impact? 
+3. **Presentation - 20%** : Comprehension, aesthetics, and delivery style. Clear communication is crucial in innovative fields of emerging tech, a good idea that cannot be shared cannot make an impact.
+4. **Originality - 15%** : Creativity and problem solving (applications to real world problems). Is the project and solution well researched?
+5. **Submitting correct and clean files and attendance/communication - 5%** :
+  - Easy to follow and clean formatting on GitHub
+  - Sources and references are included
+  - *For in-person attendees only* You are responsible for your attendance, if someone from your team cannot come they should communicate with the organizers AND teammates
+
+
 ## **Challenges and Submission Details**
 
-The final submission for this hackathon is a 5-10 minute presentation in any chosen format and your GitHub Repository. Please fill out [this google form](https://forms.gle/PBY8KsTmg4SdrbaeA) to upload all necessary information and documents.
+The final submission for this hackathon is a 5-10 minute presentation in any chosen format and your GitHub Repository. Please fill out [this google form](https://forms.gle/PBY8KsTmg4SdrbaeA) to upload all necessary information and documents. Only ONE team member has to submit, please do not duplicate submissions!
 
 ## Track 1: Feynman's dream - Reversible computing
 
@@ -166,23 +190,7 @@ Congratulations to all winners and thank you everyone who competed!
 
 [Quantum Learning Resources](put-your-drive-document-link-here)
 
-## Final Submission
-
-> [!IMPORTANT]
-Submission Due: 11:59AM PST, 13th Sep (Saturday)</br>
-Link will expires after due.
-
-Submission: Thank you so much for choosing IBM Quantum Challenge!
-
-## **Judging Criteria**
-
-1. **Technical Aspects (30%)** : This category includes the following subcategories:
-    - Quantum Complexity : How complex is the quantum algorithm? How optimized is it?
-    - Architecture : Does the architecture leverage cloud technologies to optimize cost? Can the architecture serve users at a reasonable scale?
-    - Accessibility/User Experience : How accessible is the end user application? Is it easy to use and intuitive for end users?
-2. **Originality and Uniqueness (25%)** : How unique is this project compared to others? How interesting is it? Did the team attempt something new or difficult?
-3. **Usefulness and Complexity (25%)** : How useful is the project and how well-designed is it? How functional is it at the time of judging? Can it be used in real-world business applications or serve as a valuable tool for individuals?
-4. **Presentation (20%)** : How well did the team present their project? Were they able to explain their decisions? Did the entire team have a chance to speak?
+---
 
 ## Winners and Awards
 
@@ -197,5 +205,5 @@ Winners: TBA
 
 ## Feedbacks
 
-Your opinions matter! Please complete this end-of-event survery to tell us your experience at Q^3 Qompute 2025 and if you would like to attennd more events like this in the future. 
+Your opinions matter and we take them seriously to improve QEE events! Please complete this end-of-event survery to tell us your experience at Q^3 Qompute 2025 and if you would like to attennd more events like this in the future. 
 
