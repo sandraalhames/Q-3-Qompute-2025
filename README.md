@@ -8,9 +8,8 @@ All Challenges are provided by IBM Quantum and to be completed with Qiskit.
 - [How to Start Qomputing](#how-to-start-qomputing)
 - [Final Submission Due Date](#final-submission)
 - [Juding Criteria](#judging-criteria)
-- [Challenges and Submission Details](#challenges-and-submission-details)
+- [Submission Details and Challenges](#submission-details-and-challenges)
 - [Winners](#winners)
-- [Final Submission](#finalsubmission)
 ------
 
 ## **Overview**
@@ -63,7 +62,7 @@ Link will expires after due.
   - *For in-person attendees only* You are responsible for your attendance, if someone from your team cannot come they should communicate with the organizers AND teammates
 
 
-## **Challenges and Submission Details**
+## **Submission Details and Challenges**
 
 The final submission for this hackathon is a 5-10 minute presentation in any chosen format and your GitHub Repository. Please fill out [this google form](https://forms.gle/PBY8KsTmg4SdrbaeA) to upload all necessary information and documents. Only ONE team member has to submit, please do not duplicate submissions!
 
