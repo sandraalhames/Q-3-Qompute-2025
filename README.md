@@ -161,12 +161,7 @@ Congratulations to all winners and thank you everyone who competed!
 ## stopped HERE on 9/2, 9:42 pm ----------------
 
 
-
-1. Login to https://quantum.ibm.com/. If you don't have your IBMid, please signin first. 
-2. After login, please copy your "API Token" by clicking double square butten at the top right and save it for the aBraid Quantum Lab
-<img src="./img/apitoken.png" width=100%>
-
-## How to start hack
+## How to start Qomputing
 
 [Start Here: How to Install Qiskit and Make Yourself ready for this Hackathon](put-your-drive-document-link-here)
 
