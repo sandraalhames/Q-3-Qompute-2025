@@ -8,6 +8,7 @@ All Challenges are provided by IBM Quantum.
 - [How to Start Qomputing](#how-to-start-qomputing)
 - [Challenges and Submission Details](#challenges-and-submission-details)
 - [Winners](#winners)
+- [Final Submission](#finalsubmission)
 ------
 
 ## **Overview**
@@ -159,55 +160,16 @@ Congratulations to all winners and thank you everyone who competed!
 ---
 
 
-
-## stopped HERE on 9/2, 9:42 pm ----------------
-
-
 ## How to start Qomputing
 
 [Start Here: How to Install Qiskit and Make Yourself ready for this Hackathon](put-your-drive-document-link-here)
 
 [Quantum Learning Resources](put-your-drive-document-link-here)
 
-
-## Additional Info
-
-import qiskit, qiskit_ibm_runtime
-
-print("Qiskit version:", qiskit.version.get_version_info())
-print("Qiskit Runtime version:", qiskit_ibm_runtime.__version__)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Working on IBM Quantum Lab
-
-You can also work on the [IBM Quantum Platform](https://quantum.ibm.com/), by using [IBM Quantum Lab](https://quantum.ibm.com/lab). In Quantum Lab, you can write scripts that combine Qiskit code, equations, visualizations, and narrative text in a customized Jupyter Notebook environment — no installation required. Run code on real quantum hardware(opens in a new tab) or simulators(opens in a new tab). Store, access, and manage your files from anywhere.
+## Final Submission
 
 > [!IMPORTANT]
-While you are using IBM Quantum Lab, you don't need to select a channel or save tokens.
-
-### Working on Locally
-If you will work locally or in a cloud environment, all users' first step is installing Qiskit. 
-
-Please follow [this installation tutorial](https://docs.quantum.ibm.com/start/install). After installing the latest Qiskit, You can access IBM Quantum systems by using the `IBM Quantum Platform` or `IBM Cloud` channel. Channel is the term used to describe the method you use to access IBM Quantum services, and for this challenge, we suggest you use the `IBM Quantum Platform` channel and follow this [instruction](https://docs.quantum.ibm.com/start/setup-channel#set-up-to-use-ibm-quantum-platform) to set up a channel for your project.
-
-
-## Submitting the tasks
-
-> [!IMPORTANT]
-Submission Due: 10am ET, 4th Feb (Sunday)</br>
+Submission Due: 11:59AM PST, 13th Sep (Saturday)</br>
 Link will expires after due.
 
 Submission: Thank you so much for choosing IBM Quantum Challenge!
@@ -226,56 +188,14 @@ Submission: Thank you so much for choosing IBM Quantum Challenge!
 
 Winners: TBA
 
-- Winners will receive a digital certificate and can get a [Tier 1](https://github.com/qiskit-advocate/application-guide) score when they apply for the Qiskit Advocate. 
-- The number of total winners might depend on the number of applications.
+- Winners will receive a digital certificate and prizes will range from a final round interview with WISER for a paid fellowship, two cash prizes, and a one-time mentorship sesssion with IBM Quantum. The top winners will pick their prize first and the following winning teams will pick their prizes afterwards in order of ranking!
 
-## Resources
-
-### Learning Materials
-
-#### Quantum Computing and Algorithms
-
-- [Basics of quantum information](https://learning.quantum.ibm.com/course/basics-of-quantum-information) by John Watrous (Award Badge Available)
-- [Fundamentals of quantum algorithms](https://learning.quantum.ibm.com/course/fundamentals-of-quantum-algorithms) by John Watrous
-- [Variational algorithm design](https://learning.quantum.ibm.com/course/variational-algorithm-design)
-
-#### Workflow Example Tutorials
-
-- [Qiskit Runtime Lab](https://github.com/JavaFXpert/qiskit-runtime-lab) by [James Weaver](https://github.com/JavaFXpert)
-- [Variational quantum eigensolver](https://learning.quantum.ibm.com/tutorial/variational-quantum-eigensolver)
-- [Quantum approximate optimization algorithm](https://learning.quantum.ibm.com/tutorial/quantum-approximate-optimization-algorithm)
-- [CHSH inequality](https://learning.quantum.ibm.com/tutorial/chsh-inequality)
-- [Max-Cut](https://learning.quantum.ibm.com/tutorial/max-cut)
-- [Heisenberg chain](https://learning.quantum.ibm.com/tutorial/heisenberg-chain)
-- [And More!](https://learning.quantum.ibm.com/catalog/tutorials)
-
-
-### API Reference
-
-- [Qiskit](https://docs.quantum.ibm.com/api/qiskit)
-- [Qiskit Runtime IBM Client](https://docs.quantum.ibm.com/api/qiskit-ibm-runtime)
-- [Qiskit IBM Runtime REST API](https://docs.quantum.ibm.com/api/runtime/tags/jobs)
-- [Qiskit IBM Provider](https://docs.quantum.ibm.com/api/qiskit-ibm-provider)
 
 ### Useful Resources
 
 - [Qiskit Youtubes](https://www.youtube.com/Qiskit)
-- [IBM Quantum Blogs](https://www.ibm.com/quantum/blog)
-- [Qiskit Slack](https://qisk.it/join-slack): Meet the community!
 
+## Feedbacks
 
-## Tips
-This year’s iQuHACK challenges require a write-up/documentation portion that is heavily considered during
-judging. The write-up is a chance for you to be creative in describing your approach and describing
-your process. It can be in the form of a blog post, a short YouTube video or any form of
-social media. It should clearly explain the problem, the approach you used, your implementation with results
-from simulation and hardware, and how you accessed the quantum hardware (total number of shots used, 
-backends used, etc.).
+Your opinions matter! Please complete this end-of-event survery to tell us your experience at Q^3 Qompute 2025 and if you would like to attennd more events like this in the future. 
 
-Make sure to clearly link the documentation into the `README.md` and to include a link to the original challenge 
-repository from the documentation.
-
-## Feedbacks and Discussions
-
-Your opinions matter! Place to share your feedback on Qiskit [here](https://github.com/Qiskit/feedback
-); stay up to date with release planning and DemoDays; and find out where to get support.
