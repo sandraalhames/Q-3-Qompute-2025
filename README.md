@@ -1,5 +1,5 @@
 # Welcome to Q^3 Qompute 2025!
-All Challenges are provided by IBM Quantum. 
+All Challenges are provided by IBM Quantum and to be completed with Qiskit. 
 
 > [!IMPORTANT]
 **Please note that in-person attendees must check in on 9/12 and 9/14, contact qee@usc.edu for any concerns**
