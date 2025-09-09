@@ -9,7 +9,7 @@ All Challenges are provided by IBM Quantum and to be completed with Qiskit.
 - [Final Submission Due Date](#final-submission)
 - [Juding Criteria](#judging-criteria)
 - [Submission Details and Challenges](#submission-details-and-challenges)
-- [Winners](#winners)
+- [Winners](#🏆_winners_🏆)
 ------
 
 ## **Overview**
