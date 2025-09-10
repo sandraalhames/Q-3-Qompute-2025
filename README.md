@@ -64,7 +64,7 @@ Link will expires after due.
 
 ## **Submission Details and Challenges**
 
-The final submission for this hackathon is a 5-10 minute presentation in any chosen format and your GitHub Repository. Please fill out [this google form](https://forms.gle/PBY8KsTmg4SdrbaeA) to upload all necessary information and documents. Only ONE team member has to submit, please do not duplicate submissions!
+The final submission for this hackathon is a 5-10 minute video presentation in any chosen format and your team's GitHub Repository. Please fill out [this google form](https://forms.gle/PBY8KsTmg4SdrbaeA) to upload all necessary information and documents. Only ONE team member has to submit, please do not duplicate submissions!
 
 ## Track 1: Feynman's dream - Reversible computing
 
