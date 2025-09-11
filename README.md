@@ -54,13 +54,13 @@ Link will expires after due, please turn in your project on time.
 
 ## Judging Criteria
 
-1. **Technical Content - 30%** : Did you meet the technical requirements posed by your chosen track(s)? 
+1. **Technical Content - 35%** : Did you meet the technical requirements posed by your chosen track(s)? 
 2. **Societal Impacts - 20%** : How does the challenge support [Quantum for Good](https://aiforgood.itu.int/quantum-for-good/) by the UN? (Prompt motivation)
   - Did you consider the potential harm or danger of this technology?
   - Does your project have a clearn and positive impact? 
 3. **Presentation - 20%** : Comprehension, aesthetics, and delivery style. Clear communication is crucial in innovative fields of emerging tech, a good idea that cannot be shared cannot make an impact.
 4. **Originality - 15%** : Creativity and problem solving (applications to real world problems). Is the project and solution well researched?
-5. **Submitting correct and clean files and attendance/communication - 5%** :
+5. **Submitting correct and clean files and attendance/communication - 10%** :
   - Easy to follow and clean formatting on GitHub
   - Sources and references are included
   - *For in-person attendees only* You are responsible for your attendance, if someone from your team cannot come they should communicate with the organizers AND teammates
