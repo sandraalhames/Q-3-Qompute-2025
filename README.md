@@ -191,7 +191,7 @@ Congratulations to all winners and thank you everyone who competed!
 
 Winners: TBA
 
-- Winners will receive a digital certificate and prizes will range from a final round interview with WISER for a paid fellowship, two cash prizes, and a one-time mentorship sesssion with IBM Quantum. The top winners will pick their prize first and the following winning teams will pick their prizes afterwards in order of ranking!
+- Winners will receive a digital certificate and prizes will range from an interview with WISER for a paid fellowship, two cash prizes, and a one-time mentorship sesssion with IBM Quantum. The top winners will pick their prize first and the following winning teams will pick their prizes afterwards in order of ranking!
 
 
 ### Useful Resources
