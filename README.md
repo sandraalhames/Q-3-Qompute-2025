@@ -50,7 +50,7 @@ You can find [detailed instructions](https://docs.qbraid.com/lab/user-guide/gett
 
 > [!IMPORTANT]
 Submission Due: 11:59PM PST, 13th Sep (Saturday)</br>
-Link will expires after due, .
+Link will expires after due, please turn in your project on time.
 
 ## Judging Criteria
 
@@ -200,5 +200,5 @@ Winners: TBA
 
 ## Feedbacks
 
-Your opinions matter and we take them seriously to improve QEE events! Please complete this end-of-event survery to tell us your experience at Q^3 Qompute 2025 and if you would like to attennd more events like this in the future. 
+Your opinions matter and we take them seriously to improve QEE events! Please complete the end-of-event survery to tell us your experience at Q^3 Qompute 2025 and if you would like to attennd more events like this in the future. Survey is coming soon.
 
