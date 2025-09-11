@@ -27,6 +27,10 @@ Your goal is to engage with one of these core challenges. Beyond simply implemen
 
 ## **How to Start Qomputing**
 
+[Start Here: How to Install Qiskit and Make Yourself ready for this Hackathon](https://docs.google.com/document/d/12Be_4zIUcz8xkC1jnlbSwCfLch4eiJhVqtn0Syusv70/edit?usp=sharing)
+
+[Quantum Learning Resources]((https://drive.google.com/drive/folders/1h8H3HqeEugLJRGnizbYnJ-sTYo3oBGBV?usp=sharing))
+
 Please visit [IBM Setup Guide](https://docs.google.com/document/d/12Be_4zIUcz8xkC1jnlbSwCfLch4eiJhVqtn0Syusv70/edit?usp=sharing) for an overview of installing Qiskit, accessing the online environment, and using the backend computing tools.
 
 ### Access to IBM Hardware
@@ -45,12 +49,12 @@ You can find [detailed instructions](https://docs.qbraid.com/lab/user-guide/gett
 ## Final Submission Due Date
 
 > [!IMPORTANT]
-Submission Due: 11:59AM PST, 13th Sep (Saturday)</br>
-Link will expires after due.
+Submission Due: 11:59PM PST, 13th Sep (Saturday)</br>
+Link will expires after due, .
 
 ## Judging Criteria
 
-1. **Technical Content - 30%** : 
+1. **Technical Content - 30%** : Did you meet the technical requirements posed by your chosen track(s)? 
 2. **Societal Impacts - 20%** : How does the challenge support [Quantum for Good](https://aiforgood.itu.int/quantum-for-good/) by the UN? (Prompt motivation)
   - Did you consider the potential harm or danger of this technology?
   - Does your project have a clearn and positive impact? 
@@ -182,14 +186,6 @@ Congratulations to all winners and thank you everyone who competed!
 
 ---
 
-
-## How to start Qomputing
-
-[Start Here: How to Install Qiskit and Make Yourself ready for this Hackathon](put-your-drive-document-link-here)
-
-[Quantum Learning Resources](put-your-drive-document-link-here)
-
----
 
 ## Winners and Awards
 
