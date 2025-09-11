@@ -6,7 +6,7 @@ All Challenges are provided by IBM Quantum and to be completed with Qiskit.
 
 - [Overview](#overview)
 - [How to Start Qomputing](#how-to-start-qomputing)
-- [Final Submission Due Date](#final-submission)
+- [Final Submission Due Date](#final-submission-due-date)
 - [Juding Criteria](#judging-criteria)
 - [Submission Details and Challenges](#submission-details-and-challenges)
 - [Winners](#-winners-)
