@@ -150,9 +150,9 @@ You should use methods that go beyond standard ground state calculations, such a
 
 [3] Robledo-Moreno, J., M. Motta, H. Haas, A. Javadi-Abhari, P. Jurcevic, W. Kirby, S. Martiel, et al. 2024. “Chemistry beyond the Scale of Exact Diagonalization on a Quantum-Centric Supercomputer.” Science Advances 10 (25). https://doi.org/10.1126/sciadv.adu9991.
 
-**Created by:** [Sophy Shin](@0sophy1)
+**Created by:** [Sophy Shin](https://github.com/0sophy1), IBM Quantum
 
-**Reviewed by:**  Nate Earnest-Noble, Will Scherr
+**Reviewed by:**  Nate Earnest-Noble, IBM Quantum and  Will Scherr, IBM Quantum
 
 <div class="alert alert-info">
 
