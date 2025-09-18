@@ -213,5 +213,5 @@ Winners: TBA
 
 ## Feedbacks
 
-Your opinions matter and we take them seriously to improve QEE events! Please complete the end-of-event survery to tell us your experience at Q^3 Qompute 2025 and if you would like to attennd more events like this in the future. Survey is coming soon.
+Your opinions matter and we take them seriously to improve QEE events! Please complete the end-of-event survery to tell us your experience at Q^3 Qompute 2025 and if you would like to attennd more events like this in the future. [Click here to complete the survey!](https://usc.qualtrics.com/jfe/form/SV_5j6vOhTj1c55KyG)
 
