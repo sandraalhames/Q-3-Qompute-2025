@@ -170,33 +170,42 @@ Congratulations to all winners and thank you everyone who competed!
 
 <h2> 🥇 1st Place </h2>
 
-**Team BLANK**: "Title"
-- Repo Link
+**T-Bosons**
+- [Repo Link](https://github.com/kakolla/q3-t-bosons)
 - Members:
-  - [Name](https://github.com/NAME)
+  - Isabella Davidson
+  - Sriharsha Madhira
+  - Abhishek (Abi) Kakolla
+  - Navya Tayi
 
 <h2>🥈 2nd Place </h2>
 
-**Team BLANK**: "Title"
-- Repo Link
+**Schrödinger's Cat Ate my Homework**
+- [Repo Link](https://github.com/Mahdi-s/QEE_Submission)
 - Members:
-  - [Name](https://github.com/NAME)
-
+  - Anna Serbina
+  - Jesse Modesto
+  - Mahdi Saeedi
 
 <h2>🥉 3rd Place </h2>
 
-**Team BLANK**: "Title"
-- Repo Link
+**Superposition Squad**
+- [Repo Link](https://github.com/Didgety/superposition-squad)
 - Members:
-  - [Name](https://github.com/NAME)
+  - Grace Chowdhry
+  - Asmita Mohanty
+  - Shrinidhi Mahesh
+  - Jai Veilleux
  
  <h2>🏅 4th Place </h2>
 
-**Team BLANK**: "Title"
-- Repo Link
+**Team Qubit**
+- [Repo Link](https://github.com/aryanparab/team-qubit)
 - Members:
-  - [Name](https://github.com/NAME)
-
+  - Aryan Parab
+  - James Simon
+  - Vasudha Padala
+  - Vatsal Vatsyayan
 
 ---
 
